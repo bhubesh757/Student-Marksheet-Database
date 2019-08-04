@@ -1,0 +1,9 @@
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.frmAdmin.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.frmLoggingIn.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.frmStudentView.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.Properties.Resources.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.csproj.GenerateResource.Cache
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\bin\Release\StudentInformation.exe
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\bin\Release\StudentInformation.pdb
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.exe
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Release\StudentInformation.pdb

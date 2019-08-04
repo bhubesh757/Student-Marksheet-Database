@@ -1,0 +1,31 @@
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmAdmin.resources
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csproj.GenerateResource.Cache
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmLoggingIn.resources
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmStudentView.resources
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.exe
+C:\Users\Kinda\documents\visual studio 2010\Projects\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.pdb
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.exe
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.pdb
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmAdmin.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmLoggingIn.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmStudentView.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csproj.GenerateResource.Cache
+C:\Users\Kinda\Desktop\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmAdminSettings.resources
+D:\Assignment Final\Assignment5\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmAdminSettings.resources
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmAdmin.resources
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmLoggingIn.resources
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.frmStudentView.resources
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.Properties.Resources.resources
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csproj.GenerateResource.cache
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.exe
+D:\Assignment Final\Assignment5\StudentInformation\obj\x86\Debug\StudentInformation.pdb
